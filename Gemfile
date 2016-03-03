@@ -9,6 +9,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'sprockets', '~> 3.5', '>= 3.5.2'
 
 group :development, :test do
   gem 'sqlite3' 
